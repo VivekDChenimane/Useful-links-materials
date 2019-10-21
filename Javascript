@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript
+https://flaviocopes.com/javascript-loops-map-filter-reduce-find/
